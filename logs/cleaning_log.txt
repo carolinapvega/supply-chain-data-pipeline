@@ -1,0 +1,85 @@
+[2025-04-06 18:17:50,821] [INFO] Dropped 0 rows with missing critical values.
+[2025-04-06 18:17:50,826] [INFO] Cleaned data saved to: cleaned_supply_chain_data.csv
+[2025-04-06 18:17:50,826] [INFO] ✅ Cleaning complete.
+[2025-04-06 18:17:50,826] [INFO] Final row count: 100
+[2025-04-06 18:17:50,826] [INFO] Columns in final dataset: ['product_type', 'sku', 'price', 'availability', 'number_of_products_sold', 'revenue_generated', 'customer_demographics', 'stock_levels', 'lead_times', 'order_quantities', 'shipping_times', 'shipping_carriers', 'shipping_costs', 'supplier_name', 'location', 'lead_time', 'production_volumes', 'manufacturing_lead_time', 'manufacturing_costs', 'inspection_results', 'defect_rates', 'transportation_modes', 'routes', 'costs']
+[2025-04-06 19:27:50,312] [INFO] 📦 Boxplot saved: supply-chain-data-pipeline/reports_outputs/boxplot_price.png
+[2025-04-06 19:27:50,352] [INFO] 📦 Boxplot saved: supply-chain-data-pipeline/reports_outputs/boxplot_stock_levels.png
+[2025-04-06 19:27:50,392] [INFO] 📦 Boxplot saved: supply-chain-data-pipeline/reports_outputs/boxplot_shipping_costs.png
+[2025-04-06 19:27:50,430] [INFO] 📦 Boxplot saved: supply-chain-data-pipeline/reports_outputs/boxplot_defect_rates.png
+[2025-04-06 19:27:50,470] [INFO] 📦 Boxplot saved: supply-chain-data-pipeline/reports_outputs/boxplot_manufacturing_costs.png
+[2025-04-06 19:30:57,565] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/price_box_hist.png
+[2025-04-06 19:30:57,654] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/stock_levels_box_hist.png
+[2025-04-06 19:30:57,749] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/shipping_costs_box_hist.png
+[2025-04-06 19:30:57,840] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/defect_rates_box_hist.png
+[2025-04-06 19:30:57,939] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/manufacturing_costs_box_hist.png
+[2025-04-06 19:35:01,432] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/price_box_hist.png
+[2025-04-06 19:35:01,567] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/stock_levels_box_hist.png
+[2025-04-06 19:35:01,662] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/shipping_costs_box_hist.png
+[2025-04-06 19:35:01,760] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/defect_rates_box_hist.png
+[2025-04-06 19:35:01,861] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/manufacturing_costs_box_hist.png
+[2025-04-06 20:07:53,252] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/price_box_hist.png
+[2025-04-06 20:07:53,366] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/stock_levels_box_hist.png
+[2025-04-06 20:07:53,485] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/shipping_costs_box_hist.png
+[2025-04-06 20:07:53,587] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/defect_rates_box_hist.png
+[2025-04-06 20:07:53,693] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/manufacturing_costs_box_hist.png
+[2025-04-06 20:07:53,697] [INFO] Dropped 0 rows with missing critical values.
+[2025-04-06 20:10:07,362] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/price_box_hist.png
+[2025-04-06 20:10:07,477] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/stock_levels_box_hist.png
+[2025-04-06 20:10:07,600] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/shipping_costs_box_hist.png
+[2025-04-06 20:10:07,698] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/defect_rates_box_hist.png
+[2025-04-06 20:10:07,795] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/manufacturing_costs_box_hist.png
+[2025-04-06 20:11:06,750] [INFO] Dropped 0 rows with missing critical values.
+[2025-04-06 21:08:26,564] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/price_box_hist.png
+[2025-04-06 21:08:26,669] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/stock_levels_box_hist.png
+[2025-04-06 21:08:26,780] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/shipping_costs_box_hist.png
+[2025-04-06 21:08:26,886] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/defect_rates_box_hist.png
+[2025-04-06 21:08:27,030] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/manufacturing_costs_box_hist.png
+[2025-04-06 21:15:11,197] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/price_box_hist.png
+[2025-04-06 21:15:11,297] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/stock_levels_box_hist.png
+[2025-04-06 21:15:11,402] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/shipping_costs_box_hist.png
+[2025-04-06 21:15:11,518] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/defect_rates_box_hist.png
+[2025-04-06 21:15:11,629] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/manufacturing_costs_box_hist.png
+[2025-04-06 21:31:56,053] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/price_box_hist.png
+[2025-04-06 21:31:56,146] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/stock_levels_box_hist.png
+[2025-04-06 21:31:56,249] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/shipping_costs_box_hist.png
+[2025-04-06 21:31:56,357] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/defect_rates_box_hist.png
+[2025-04-06 21:31:56,513] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/manufacturing_costs_box_hist.png
+[2025-04-06 21:32:24,949] [INFO] Dropped 0 rows with missing critical values.
+[2025-04-06 21:40:00,297] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/price_box_hist.png
+[2025-04-06 21:40:00,401] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/stock_levels_box_hist.png
+[2025-04-06 21:40:00,493] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/shipping_costs_box_hist.png
+[2025-04-06 21:40:00,591] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/defect_rates_box_hist.png
+[2025-04-06 21:40:00,698] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/manufacturing_costs_box_hist.png
+[2025-04-06 21:40:23,382] [INFO] Dropped 0 rows with missing critical values.
+[2025-04-06 21:40:37,794] [INFO] 📊 Before/After summary saved to supply-chain-data-pipeline/reports_outputs/cleaning_impact_summary.csv
+[2025-04-06 21:41:14,951] [INFO] 📊 Before/After summary saved to supply-chain-data-pipeline/reports_outputs/cleaning_impact_summary.csv
+[2025-04-06 21:41:22,139] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/price_box_hist.png
+[2025-04-06 21:41:22,238] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/stock_levels_box_hist.png
+[2025-04-06 21:41:22,328] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/shipping_costs_box_hist.png
+[2025-04-06 21:41:22,443] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/defect_rates_box_hist.png
+[2025-04-06 21:41:22,582] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/manufacturing_costs_box_hist.png
+[2025-04-06 21:41:26,748] [INFO] Cleaned data saved to: cleaned_supply_chain_data.csv
+[2025-04-06 21:41:26,885] [INFO]  Max values 996 .
+[2025-04-06 21:41:27,020] [INFO]  Min values 8 .
+[2025-04-06 21:41:27,095] [INFO] ✅ Cleaning complete.
+[2025-04-06 21:41:27,192] [INFO] Final row count: 100
+[2025-04-06 21:41:27,320] [INFO] Columns in final dataset: ['product_type', 'sku', 'price', 'availability', 'number_of_products_sold', 'revenue_generated', 'customer_demographics', 'stock_levels', 'lead_times', 'order_quantities', 'shipping_times', 'shipping_carriers', 'shipping_costs', 'supplier_name', 'location', 'lead_time', 'production_volumes', 'manufacturing_lead_time', 'manufacturing_costs', 'inspection_results', 'defect_rates', 'transportation_modes', 'routes', 'costs']
+[2025-04-06 21:42:48,390] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/price_box_hist.png
+[2025-04-06 21:42:48,516] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/stock_levels_box_hist.png
+[2025-04-06 21:42:48,642] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/shipping_costs_box_hist.png
+[2025-04-06 21:42:48,743] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/defect_rates_box_hist.png
+[2025-04-06 21:42:48,843] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_before_cleaning/manufacturing_costs_box_hist.png
+[2025-04-06 21:42:48,847] [INFO] Dropped 0 rows with missing critical values.
+[2025-04-06 21:42:48,848] [INFO] 📊 Before/After summary saved to supply-chain-data-pipeline/reports_outputs/cleaning_impact_summary.csv
+[2025-04-06 21:42:48,938] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/price_box_hist.png
+[2025-04-06 21:42:49,043] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/stock_levels_box_hist.png
+[2025-04-06 21:42:49,136] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/shipping_costs_box_hist.png
+[2025-04-06 21:42:49,247] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/defect_rates_box_hist.png
+[2025-04-06 21:42:49,418] [INFO] 📊 Visual report saved: supply-chain-data-pipeline/reports_outputs/plots_after_cleaning/manufacturing_costs_box_hist.png
+[2025-04-06 21:42:49,419] [INFO] Cleaned data saved to: cleaned_supply_chain_data.csv
+[2025-04-06 21:42:49,419] [INFO]  Max values 996 .
+[2025-04-06 21:42:49,419] [INFO]  Min values 8 .
+[2025-04-06 21:42:49,419] [INFO] ✅ Cleaning complete.
+[2025-04-06 21:42:49,419] [INFO] Final row count: 100
+[2025-04-06 21:42:49,419] [INFO] Columns in final dataset: ['product_type', 'sku', 'price', 'availability', 'number_of_products_sold', 'revenue_generated', 'customer_demographics', 'stock_levels', 'lead_times', 'order_quantities', 'shipping_times', 'shipping_carriers', 'shipping_costs', 'supplier_name', 'location', 'lead_time', 'production_volumes', 'manufacturing_lead_time', 'manufacturing_costs', 'inspection_results', 'defect_rates', 'transportation_modes', 'routes', 'costs']
